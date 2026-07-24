@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Wanbinyu/Wanbinyu/main/profile-characters.png" width="100%" alt="Nahida, Furina and Firefly" />
+  <img src="https://raw.githubusercontent.com/Wanbinyu/Wanbinyu/main/profile-characters-cutout.png" width="100%" alt="Nahida, Furina and Firefly character cutouts" />
 </p>
 
 <p align="center">
