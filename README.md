@@ -6,10 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Wanbinyu/Wanbinyu/main/profile-characters-cutout.png" width="100%" alt="Nahida, Furina and Firefly character cutouts" />
-</p>
-
-<p align="center">
   <img src="https://count.getloli.com/get/@Wanbinyu?theme=asoul" alt="Visitor count" />
   <img src="https://img.shields.io/github/followers/Wanbinyu?label=Followers&style=flat" alt="Followers" />
 </p>
