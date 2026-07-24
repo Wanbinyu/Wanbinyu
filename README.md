@@ -6,9 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Nahida_Card.png/revision/latest?cb=20241007221505" height="360" alt="Nahida" />
-  <img src="https://static.wikia.nocookie.net/gensin-impact/images/2/27/Furina_Card.png/revision/latest?cb=20230925100151" height="360" alt="Furina" />
-  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/7/78/Firefly_Character_Introduction_Details_1.png/revision/latest?cb=20240611044043" height="360" alt="Firefly" />
+  <img src="https://raw.githubusercontent.com/Wanbinyu/Wanbinyu/main/profile-characters.png" width="100%" alt="Nahida, Furina and Firefly" />
 </p>
 
 <p align="center">
