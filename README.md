@@ -4,6 +4,10 @@ Building local-first tools for AI-assisted software development.
 
 I work on multi-agent orchestration, agent skills, model-aware developer tools, and small interfaces that make AI work easier to inspect.
 
+<p align="center">
+  <img src="https://count.getloli.com/get/@Wanbinyu?theme=asoul" alt="Visitor count" />
+</p>
+
 ## Core Projects
 
 ### [MAO - Multi-Agent Orchestrator](https://github.com/Wanbinyu/multi-agent-orchestrator)
