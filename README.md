@@ -38,4 +38,4 @@ Agent skills for shipping after AI-assisted coding: secrets, repros, flaky-test 
 - Tool and MCP skills: [ai-surface-skills](https://github.com/Wanbinyu/ai-surface-skills)
 - Release safety skills: [ship-guard-skills](https://github.com/Wanbinyu/ship-guard-skills)
 
-Standalone skill repositories are kept as historical links where they exist; new work lives in the three collections above.
+Standalone skill repositories are archived historical links; new work lives in the three collections above.
