@@ -52,6 +52,7 @@ Agent skills for shipping after AI-assisted coding: secrets, repros, flaky-test 
 
 ## Repository Map
 
+- Showcase: `Wanbinyu`
 - Main tools: `multi-agent-orchestrator`, `pet-tty`, `wanbinyu-harness-toolbox`
 - DeepSeek Harness plugins: `dsh-*`
 - Skill collections: `api-platform-skills`, `ai-surface-skills`, `ship-guard-skills`
