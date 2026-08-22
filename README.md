@@ -8,18 +8,18 @@
 
 ## 中文
 
-我在构建本地优先的 AI 辅助软件开发工具，方向包括多代理编排、Agent Skills、DeepSeek Harness 插件，以及更容易观察和验证的开发者工具。
+哈喽哈喽，这里是 Wanbinyu。
 
-我关心的不是“看起来很智能”的系统，而是在真实工程压力下仍然可靠的系统：权限边界清晰、工具调用可追踪、完成状态有证据、失败时也能被检查。
+欢迎来逛我的作品集。这里放着一些 AI 开发工具、DeepSeek Harness 插件、Agent Skills、小实验和展示型项目。有些偏实用，有些偏好玩，但基本都围绕一个方向：让 AI 辅助开发变得更顺手、更可观察，也更容易真的用起来。
 
-### 我在做什么
+### 最近在玩
 
-- 面向编码和软件交付的多代理编排。
-- 面向 API、工具、MCP、发布安全的 Agent Skills。
-- 本地优先、可观察、可验证的 AI 开发者工具。
-- 小而完整的展示型项目，用来表达交互、视觉和想法。
+- 多代理编排和 coding agent 工作流。
+- DeepSeek Harness 插件和本地开发辅助工具。
+- Agent Skills、MCP、API 工具链和发布安全。
+- 一些小而完整、能点开看的创意项目。
 
-### 从这里开始
+### 先看这些
 
 #### [MAO - Multi-Agent Orchestrator](https://github.com/Wanbinyu/multi-agent-orchestrator)
 
@@ -72,16 +72,16 @@ Profile README 中的访客计数展示组件，用来给主页增加一点可�
 
 ## English
 
-I build local-first tools for AI-assisted software development, including multi-agent orchestration, Agent Skills, DeepSeek Harness plugins, and developer tools that are easier to observe and verify.
+Hello hello, this is Wanbinyu.
 
-I care less about systems that merely look intelligent and more about systems that remain useful under real engineering pressure: clear permission boundaries, traceable tool use, evidence-backed completion, and inspectable failure modes.
+Welcome to my little project shelf. I make AI developer tools, DeepSeek Harness plugins, Agent Skills, small experiments, and showcase projects. Some are practical, some are playful, and most of them are about making AI-assisted development easier to use, observe, and trust in daily work.
 
-### What I Build
+### Recently Playing With
 
-- Multi-agent orchestration for coding and software delivery.
-- Agent Skills for API, tool, MCP, and release-safety workflows.
-- Local-first AI developer tools that are observable and verifiable.
-- Small showcase projects for interaction, visuals, and ideas.
+- Multi-agent orchestration and coding-agent workflows.
+- DeepSeek Harness plugins and local developer helpers.
+- Agent Skills, MCP, API tooling, and release safety.
+- Small complete projects that you can actually open and explore.
 
 ### Start Here
 
