@@ -1,10 +1,36 @@
 # Wanbinyu
 
-**Language / 语言:** [中文](#中文) | [English](#english)
-
 <p align="center">
   <img src="https://count.getloli.com/get/@Wanbinyu?theme=moebooru" alt="Visitor count" />
 </p>
+
+## Pinned / 置顶作品
+
+#### [MAO - Multi-Agent Orchestrator](https://github.com/Wanbinyu/multi-agent-orchestrator)
+
+多代理编排器，主代理分配任务给子代理。一个面向 coding agent 工作流的工程实验场。
+
+#### [PetDeck / pet-tty](https://github.com/Wanbinyu/pet-tty)
+
+Windows 桌面宠物，用本地 hooks 和本地 HTTP bridge 展示 AI coding agent 正在做什么。
+
+#### [dsh-launcher](https://github.com/Wanbinyu/dsh-launcher)
+
+DeepSeek Harness Web profile 的短启动器，让日常打开和切换更顺手。
+
+#### [dsh-billing](https://github.com/Wanbinyu/dsh-billing)
+
+DeepSeek Harness 的用量和计费查看插件，用来把模型消耗看得更清楚。
+
+#### [dsh-plugin-git-inspect](https://github.com/Wanbinyu/dsh-plugin-git-inspect)
+
+DeepSeek Harness 的只读 Git 检查工具，帮助 agent 安全地观察仓库状态。
+
+#### [Wanbinyu Harness Toolbox](https://github.com/Wanbinyu/wanbinyu-harness-toolbox)
+
+DeepSeek Harness 的独立第三方插件和工具集合，包含检查、诊断和日常操作辅助能力。
+
+**Language / 语言:** [中文](#中文) | [English](#english)
 
 ## 中文
 
@@ -18,32 +44,6 @@
 - DeepSeek Harness 插件和本地开发辅助工具。
 - Agent Skills、MCP、API 工具链和发布安全。
 - 一些小而完整、能点开看的创意项目。
-
-### 先看这些
-
-#### [MAO - Multi-Agent Orchestrator](https://github.com/Wanbinyu/multi-agent-orchestrator)
-
-一个证据驱动的多模型工程代理，包含明确的权限边界、工具证据、验证关卡、CLI 和 WebUI。
-
-#### [PetDeck / pet-tty](https://github.com/Wanbinyu/pet-tty)
-
-Windows 桌面宠物，用本地 hooks 和本地 HTTP bridge 展示 AI coding agent 正在做什么。
-
-#### [Wanbinyu Harness Toolbox](https://github.com/Wanbinyu/wanbinyu-harness-toolbox)
-
-DeepSeek Harness 的独立第三方插件和工具集合，包含检查、诊断和日常操作辅助能力。
-
-#### [DSH Provider Probe](https://github.com/Wanbinyu/dsh-provider-probe)
-
-用于 DeepSeek Harness 的 provider 连通性和延迟手动检查工具。
-
-#### [Agent Audit Gate](https://github.com/Wanbinyu/agent-audit-gate)
-
-面向 coding agents 的完成状态审计 sidecar，用证据判断任务是 completed 还是 blocked。
-
-#### [Visitor Counter / 访客计数展示](https://count.getloli.com/)
-
-Profile README 中的访客计数展示组件，用来给主页增加一点可见的访问反馈。
 
 ### Agent Skills
 
@@ -62,7 +62,7 @@ Profile README 中的访客计数展示组件，用来给主页增加一点可�
 ### 项目地图
 
 - 对外展示：`Wanbinyu`
-- 主要工具：`multi-agent-orchestrator`、`pet-tty`、`wanbinyu-harness-toolbox`
+- 置顶作品：`multi-agent-orchestrator`、`pet-tty`、`dsh-launcher`、`dsh-billing`、`dsh-plugin-git-inspect`、`wanbinyu-harness-toolbox`
 - DeepSeek Harness 插件：`dsh-*`
 - Skills 集合：`api-platform-skills`、`ai-surface-skills`、`ship-guard-skills`
 - 创意实验：`qixi-*`
@@ -83,32 +83,6 @@ Welcome to my little project shelf. I make AI developer tools, DeepSeek Harness 
 - Agent Skills, MCP, API tooling, and release safety.
 - Small complete projects that you can actually open and explore.
 
-### Start Here
-
-#### [MAO - Multi-Agent Orchestrator](https://github.com/Wanbinyu/multi-agent-orchestrator)
-
-An evidence-driven multi-model engineering agent with explicit permission boundaries, tool evidence, verification gates, CLI, and WebUI.
-
-#### [PetDeck / pet-tty](https://github.com/Wanbinyu/pet-tty)
-
-A Windows desktop pet that shows what an AI coding agent is doing through local hooks and a local HTTP bridge.
-
-#### [Wanbinyu Harness Toolbox](https://github.com/Wanbinyu/wanbinyu-harness-toolbox)
-
-Independent third-party plugins and tools for DeepSeek Harness, including inspection, diagnostics, and operational helpers.
-
-#### [DSH Provider Probe](https://github.com/Wanbinyu/dsh-provider-probe)
-
-Manual provider connectivity and latency checks for DeepSeek Harness.
-
-#### [Agent Audit Gate](https://github.com/Wanbinyu/agent-audit-gate)
-
-A sidecar completion audit for coding agents where evidence decides completed vs blocked.
-
-#### [Visitor Counter](https://count.getloli.com/)
-
-The visitor counter displayed in this profile README, used as a small visible feedback element for the showcase page.
-
 ### Agent Skills
 
 #### [API Platform Skills](https://github.com/Wanbinyu/api-platform-skills)
@@ -126,7 +100,7 @@ Agent skills for shipping after AI-assisted coding: secrets, repros, flaky-test 
 ### Repository Map
 
 - Showcase: `Wanbinyu`
-- Main tools: `multi-agent-orchestrator`, `pet-tty`, `wanbinyu-harness-toolbox`
+- Pinned work: `multi-agent-orchestrator`, `pet-tty`, `dsh-launcher`, `dsh-billing`, `dsh-plugin-git-inspect`, `wanbinyu-harness-toolbox`
 - DeepSeek Harness plugins: `dsh-*`
 - Skill collections: `api-platform-skills`, `ai-surface-skills`, `ship-guard-skills`
 - Creative experiments: `qixi-*`
