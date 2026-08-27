@@ -32,20 +32,6 @@ Welcome to my little project shelf. I make AI developer tools, DeepSeek Harness 
 - Agent Skills, MCP, API tooling, and release safety.
 - Small complete projects that you can actually open and explore.
 
-## Agent Skills
-
-#### [API Platform Skills](https://github.com/Wanbinyu/api-platform-skills)
-
-面向 API 契约演进的 Agent Skills：breaking changes、compatibility、deprecation、idempotency、webhooks 和 OpenAPI 工作流。
-
-#### [AI Surface Skills](https://github.com/Wanbinyu/ai-surface-skills)
-
-面向工具和 MCP 契约的 Agent Skills：设计、权限、人类确认、breaking-change review 和评估。
-
-#### [Ship Guard Skills](https://github.com/Wanbinyu/ship-guard-skills)
-
-面向 AI 辅助编码之后交付阶段的 Agent Skills：secrets、repros、flaky-test triage、feature flags 和 environment drift。
-
 ## 项目地图 / Repository Map
 
 - 对外展示 / Showcase: `Wanbinyu`
