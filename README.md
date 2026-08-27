@@ -32,32 +32,6 @@ Welcome to my little project shelf. I make AI developer tools, DeepSeek Harness 
 - Agent Skills, MCP, API tooling, and release safety.
 - Small complete projects that you can actually open and explore.
 
-## Pinned / 置顶作品
-
-#### [MAO - Multi-Agent Orchestrator](https://github.com/Wanbinyu/multi-agent-orchestrator)
-
-多代理编排器，主代理分配任务给子代理。一个面向 coding agent 工作流的工程实验场。
-
-#### [PetDeck / pet-tty](https://github.com/Wanbinyu/pet-tty)
-
-Windows 桌面宠物，用本地 hooks 和本地 HTTP bridge 展示 AI coding agent 正在做什么。
-
-#### [dsh-launcher](https://github.com/Wanbinyu/dsh-launcher)
-
-DeepSeek Harness Web profile 的短启动器，让日常打开和切换更顺手。
-
-#### [dsh-billing](https://github.com/Wanbinyu/dsh-billing)
-
-DeepSeek Harness 的用量和计费查看插件，用来把模型消耗看得更清楚。
-
-#### [dsh-plugin-git-inspect](https://github.com/Wanbinyu/dsh-plugin-git-inspect)
-
-DeepSeek Harness 的只读 Git 检查工具，帮助 agent 安全地观察仓库状态。
-
-#### [Wanbinyu Harness Toolbox](https://github.com/Wanbinyu/wanbinyu-harness-toolbox)
-
-DeepSeek Harness 的独立第三方插件和工具集合，包含检查、诊断和日常操作辅助能力。
-
 ## Agent Skills
 
 #### [API Platform Skills](https://github.com/Wanbinyu/api-platform-skills)
@@ -75,7 +49,6 @@ DeepSeek Harness 的独立第三方插件和工具集合，包含检查、诊断
 ## 项目地图 / Repository Map
 
 - 对外展示 / Showcase: `Wanbinyu`
-- 置顶作品 / Pinned work: `multi-agent-orchestrator`, `pet-tty`, `dsh-launcher`, `dsh-billing`, `dsh-plugin-git-inspect`, `wanbinyu-harness-toolbox`
 - DeepSeek Harness 插件 / plugins: `dsh-*`
 - Skills 集合 / collections: `api-platform-skills`, `ai-surface-skills`, `ship-guard-skills`
 - 创意实验 / creative experiments: `qixi-*`
